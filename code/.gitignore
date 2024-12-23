@@ -1,0 +1,48 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+env/
+venv/
+ENV/
+*.egg
+*.egg-info/
+dist/
+build/
+*.pyc
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Pytest cache
+.pytest_cache/
+
+# MyPy
+.mypy_cache/
+
+# Coverage reports
+htmlcov/
+*.cover
+*.py,cover
+.coverage
+.coverage.*
+
+# Environments
+.env
+*.env
+*.env.*
+
+# macOS files
+.DS_Store
+
+# IDE files
+.vscode/
+.idea/
+*.sublime-project
+*.s
