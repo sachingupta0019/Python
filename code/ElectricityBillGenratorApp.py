@@ -1,11 +1,13 @@
-# Electricity Bill Generator APP : 
+#################################################
+####### Electricity Bill Generator APP  #########
+#################################################
 
-# ******         varibales    *******
+################## varibales  ###################
 # customer_id
 # name
 # units
 
-# *********      Constraints    ********
+################# Constraints  ##################
 # First 100 units : Rs 5/unit
 # Next 100 units  : Rs 7/unit
 # Next all units  : Rs 9/unit
